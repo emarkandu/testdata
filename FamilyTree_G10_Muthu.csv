@@ -1,0 +1,17 @@
+﻿ID,Generation,sequence,FirstName,SpouseId,FartherId,MotherId,DOB,country,City,Street,Notes
+G09_0001_Muthu Grandpa,G09,1,"","",NA,NA,1820,Srilanka,Manthuvil,,Muthu's Grand Dad
+G10_0001_Muthu Farther,G10,1,Muthu Farther,G10_0002_Muthu Mother,NA,NA,1820,Srilanka,Manthuvil,,Muthu's Dad
+G10_0002_Muthu Mother,G10,2,Muthu Mother,G10_0001_Muthu Farther,NA,NA,1815,Srilanka,Manthuvil,,Muthu's Mother
+G11_0001_Muthu,G11,1,Muthu,G11_0005_Pillaiyamma,G10_0001_Muthu Farther,G10_0002_Muthu Mother,1840,Srilanka,Manthuvil,,Looks like first one to migrate to Mallakam
+G11_0002_Vithanai,G11,2,Vithanai,NA,G10_0001_Muthu Farther,G10_0002_Muthu Mother,1842,Srilanka,,,Muthu's Sister
+G11_0003_Muthu Brother1,G11,3,Muthu Brother1,G11_0006_Muthu Brother1 Wife,G10_0001_Muthu Farther,G10_0002_Muthu Mother,1844,Srilanka,,,Muthu's brother. Samuel Uncles grand Dad.
+G11_0004_Muthu Brother2,G11,4,Muthu Brother2,G11_0007_Muthu Brother2 Wife,G10_0001_Muthu Farther,G10_0002_Muthu Mother,1846,Srilanka,,,Muthu's brother. Nesam Aunty's grand dad
+G11_0005_Pillaiyamma,G11,5,Pillai yamma,G11_0001_Muthu,NA,NA,1845,Srilanka,Manthuvil,,Muthu's wife
+G11_0006_Muthu Brother1 Wife,G11,6,Muthu Brother1 Wife,G11_0003_Muthu Brother1,NA,NA,1849,Srilanka,,,
+G11_0007_Muthu Brother2 Wife,G11,7,Muthu Brother2 Wife,G11_0004_Muthu Brother2,NA,NA,1851,Srilanka,,,
+G12_0001_Ponnaiyar,G12,1,Ponnaiyar,G12_0010_Periyyachchi,G11_0001_Muthu,G11_0005_Pillaiyamma,,,,,
+G12_0002_Thevasagayam,G12,2,Thevasagayam,Pakkiam_1,G11_0001_Muthu,G11_0005_Pillaiyamma,,Srilanka,Mallakam,,
+G12_0003_Pasupathy,G12,3,Pasupathy,Pakkiam_2,G11_0001_Muthu,Srilanka,Mallakam,,,,
+G12_0004_Annamma,G12,4,Annamma,Daniel,G11_0001_Muthu,Srilanka,Mallakam,,,,
+G12_0005_Gnanappu,G12,5,Gnanappu,Viravi,G11_0001_Muthu,Srilanka,Mallakam,,Thankam Ammachi,,
+G12_0006_Moses,G12,6,Moses,Rasamma,G11_0001_Muthu,Srilanka,Mallakam,,,,

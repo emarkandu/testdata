@@ -1,0 +1,12 @@
+ID,fartherId
+G10_0001_Muthu Farther,G09_0001_Muthu Grandpa
+G11_0001_Muthu,G10_0001_Muthu Farther
+G11_0003_Muthu Brother1,G10_0001_Muthu Farther
+G11_0004_Muthu Brother2,G10_0001_Muthu Farther
+G11_0002_Vithanai,G10_0001_Muthu Farther
+G12_0001_Ponnaiyar,G11_0001_Muthu
+G12_0002_Thevasagayam,G11_0001_Muthu
+G12_0003_Pasupathy,G11_0001_Muthu
+G12_0004_Annamma,G11_0001_Muthu
+G12_0005_Gnanappu,G11_0001_Muthu
+G12_0006_Moses,G11_0001_Muthu
