@@ -1,5 +1,5 @@
 ﻿ID,Generation,sequence,FirstName,SpouseId,FartherId,MotherId,DOB,country,City,Street,Notes
-G09_0001_Muthu Grandpa,G09,1, ,,NA,NA,1820,Srilanka,Manthuvil,,Muthu's Grand Dad
+G09_0001_Muthu Grandpa,G09,1, , ,NA,NA,1820,Srilanka,Manthuvil,,Muthu's Grand Dad
 G10_0001_Muthu Farther,G10,1,Muthu Farther,G10_0002_Muthu Mother,NA,NA,1820,Srilanka,Manthuvil,,Muthu's Dad
 G10_0002_Muthu Mother,G10,2,Muthu Mother,G10_0001_Muthu Farther,NA,NA,1815,Srilanka,Manthuvil,,Muthu's Mother
 G11_0001_Muthu,G11,1,Muthu,G11_0005_Pillaiyamma,G10_0001_Muthu Farther,G10_0002_Muthu Mother,1840,Srilanka,Manthuvil,,Looks like first one to migrate to Mallakam
@@ -16,16 +16,16 @@ G12_0004_Annamma,G12,4,Annamma,Daniel,G11_0001_Muthu,Srilanka,Mallakam,,,,
 G12_0005_Gnanappu,G12,5,Gnanappu,Viravi,G11_0001_Muthu,Srilanka,Mallakam,,Thankam Ammachi,,
 G12_0006_Moses,G12,6,Moses,Rasamma,G11_0001_Muthu,Srilanka,Mallakam,,,,
 ,,,,,,,,,,,
-G13_0001_Thevarasa,,,Thevarasa,,G12_0001_Ponnaiyar,,,,,,
-G13_0002_Chellaiyar,,,Chellaiyar,,G12_0001_Ponnaiyar,,,,,,
-G13_0003_Chakkaraiyar,,,Chakkaraiyar,,G12_0001_Ponnaiyar,,,,,,
-G13_0004_Sinnathambi,,,Sinnathambi,,G12_0001_Ponnaiyar,,,,,,
-G13_0005_Sivaguru,,,Sivaguru,,G12_0001_Ponnaiyar,,,,,,
-G13_0006_Parameshwari,,,Parameshwari,,G12_0001_Ponnaiyar,,,,,,
+G13_0001_Thevarasa,G13,1,Thevarasa, ,G12_0001_Ponnaiyar,,,,,,
+G13_0002_Chellaiyar,G13,2,Chellaiyar, ,G12_0001_Ponnaiyar,,,,,,
+G13_0003_Chakkaraiyar,G13,3,Chakkaraiyar, ,G12_0001_Ponnaiyar,,,,,,
+G13_0004_Sinnathambi,G13,4,Sinnathambi, ,G12_0001_Ponnaiyar,,,,,,
+G13_0005_Sivaguru,G13,5,Sivaguru, ,G12_0001_Ponnaiyar,,,,,,
+G13_0006_Parameshwari,G13,6,Parameshwari, ,G12_0001_Ponnaiyar,,,,,,
 ,,,,,,,,,,,
-G13_0007_Joseph,,,Joseph,,G12_0002_Thevasagayam,,,,,,
-G13_0008_Anthonippillai,,,Anthonippillai,,G12_0002_Thevasagayam,,,,,,
-G13_0009_Moses,,,Moses,,G12_0002_Thevasagayam,,,,,,
-G13_0010_Thiresamma,,,Thiresamma,,G12_0002_Thevasagayam,,,,,,
-G13_0011_Rittamma ,,,Rittamma,,G12_0002_Thevasagayam,,,,,,
-G13_0012_Ciciliamma,,,Ciciliamma,,G12_0002_Thevasagayam,,,,,,
+G13_0007_Joseph,G13,7,Joseph, ,G12_0002_Thevasagayam,,,,,,
+G13_0008_Anthonippillai,G13,8,Anthonippillai, ,G12_0002_Thevasagayam,,,,,,
+G13_0009_Moses,G13,9,Moses, ,G12_0002_Thevasagayam,,,,,,
+G13_0010_Thiresamma,G13,,Thiresamma, ,G12_0002_Thevasagayam,,,,,,
+G13_0011_Rittamma,G13,10,Rittamma, ,G12_0002_Thevasagayam,,,,,,
+G13_0012_Ciciliamma,G13,11,Ciciliamma, ,G12_0002_Thevasagayam,,,,,,
